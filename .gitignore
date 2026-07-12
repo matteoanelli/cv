@@ -1,0 +1,12 @@
+# PDF output (generated, not tracked)
+*.pdf
+
+# Personal notes (interview prep, private)
+notes/
+
+# Photos (contain personal image)
+profile.jpg
+profile_full.jpg
+
+# Kiro workspace config
+.kiro/
